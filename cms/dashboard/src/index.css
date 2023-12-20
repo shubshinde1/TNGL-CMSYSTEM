@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.Montserratbold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.Poppins {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.Poppinsbold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
